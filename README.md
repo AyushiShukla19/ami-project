@@ -105,7 +105,7 @@ ami-by-rupeezy/
 
 ```bash
 git clone https://github.com/AyushiShukla19/ami-project.git
-cd ami-by-rupeezy
+cd ami-project
 ```
 
 ---
