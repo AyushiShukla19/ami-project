@@ -104,7 +104,7 @@ ami-by-rupeezy/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ami-by-rupeezy.git
+git clone https://github.com/AyushiShukla19/ami-project.git
 cd ami-by-rupeezy
 ```
 
